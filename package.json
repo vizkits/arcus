@@ -1,0 +1,24 @@
+{
+  "name": "arcus",
+  "version": "0.0.1",
+  "description": "Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vizkits/arcus.git"
+  },
+  "author": "Alex Chien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vizkits/arcus/issues"
+  },
+  "homepage": "https://github.com/vizkits/arcus#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ringpop": "^10.17.0",
+    "tchannel": "^3.9.0"
+  }
+}
